@@ -91,6 +91,7 @@ blogRouter.get('/:id', async (c) => {
 })
 
 
+
 //get all blogs
 blogRouter.get('/bulk', async (c) => {
 	const prisma = new PrismaClient({
