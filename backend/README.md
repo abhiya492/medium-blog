@@ -12,22 +12,22 @@ A robust backend implementation using Neon DB, Prisma, and Hono.js
 
 ## 🏗️ Implementation Timeline
 
-1. **Initial Setup** `00:05:24`
+1. **Initial Setup** 
    - Backend initialization
    - Handler configuration
 
-2. **Database Setup** `00:10:21 - 00:43:15`
+2. **Database Setup** 
    - Prisma ORM integration
    - Schema design and implementation
    - Client generation and initialization
    - Pool connection setup with Neon DB
 
-3. **API Development** `00:43:15 - 01:09:22`
+3. **API Development** 
    - Non-authenticated routes
    - JWT authentication implementation
    - Blog routes with improved routing structure
 
-4. **Final Phase** `01:09:22 - 01:18:15`
+4. **Final Phase** 
    - Middleware implementation
    - Comprehensive endpoint testing
 
